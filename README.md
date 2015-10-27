@@ -1,8 +1,5 @@
 # LampStack-
-Lampstack installion made easy
-
-
-
-##run this as shell script
+### lamp installation
+###Run this as shell script
 
 
